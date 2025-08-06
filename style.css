@@ -1,0 +1,45 @@
+.container {
+
+    background-color: cornflowerblue;
+    dispaly-flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+
+
+}
+
+.Bloco-1 {
+
+    color: violet;
+    width: 200px;
+    height: auto;
+    padding: 20px;
+    display: flex;
+
+
+}
+
+.Bloco-2 {
+
+    color: red;
+
+}
+
+.Bloco-3 {
+
+    color: yellow;
+
+}
+
+.Bloco-4 {
+
+    color: green;
+
+}
+
+.Bloco-5 {
+
+    color: blue;
+
+}
