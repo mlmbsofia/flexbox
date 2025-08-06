@@ -1,45 +1,63 @@
 .container {
 
     background-color: cornflowerblue;
-    dispaly-flex;
     justify-content: space-evenly;
-    flex-wrap: wrap;
+    padding: 30px;
+    flex-flow: row;
 
 
 
 }
 
-.Bloco-1 {
+.Album-1 {
 
-    color: violet;
+    background-color: violet;
     width: 200px;
     height: auto;
     padding: 20px;
-    display: flex;
+
+   
 
 
 }
 
-.Bloco-2 {
+.Album-2 {
 
-    color: red;
+    background-color: red;
+    width: 200px;
+    height: auto;
+    padding: 20px;
 
-}
-
-.Bloco-3 {
-
-    color: yellow;
-
-}
-
-.Bloco-4 {
-
-    color: green;
+   
 
 }
 
-.Bloco-5 {
+.Album-3 {
 
-    color: blue;
+    background-color: yellow;
+    width: 200px;
+    height: auto;
+    padding: 20px;
+
+
+}
+
+.Album-4 {
+
+    background-color: green;
+    width: 200px;
+    height: auto;
+    padding: 20px;
+
+
+}
+
+.Album-5 {
+
+    background-color: blue;
+    width: 200px;
+    height: auto;
+    padding: 20px;
+
 
 }
