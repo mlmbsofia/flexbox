@@ -6,6 +6,8 @@
     flex-wrap: wrap;
     display: flex;
     flex-flow: row;
+    row-gap: 20px;
+    column-gap: 20px;
 
 
 
@@ -21,6 +23,7 @@
 }
 .Album-1 h2 {
     text-align: center;
+    color: rgb(0, 0, 0);
 }
 
 .Album-2 {
@@ -36,6 +39,7 @@
 
 .Album-2 h2 {
     text-align: center;
+    color: rgb(49, 118, 182);
 }
 
 .Album-3 {
@@ -48,6 +52,11 @@
 
 }
 
+.Album-3 h2 {
+    text-align: center;
+    color:rgb(189, 186, 187);
+}
+
 .Album-4 {
 
     background-color: rgb(245, 190, 231);
@@ -55,6 +64,11 @@
     height: auto;
     padding: 30px;
 
+}
+
+.Album-4 h2 {
+    text-align: center;
+    color: rgb(235, 165, 214);
 }
 
 .Album-5 {
@@ -67,15 +81,12 @@
 
 }
 
-
-.h2 {
-   text-align: center;
-    font-size: 20px;
-    font-family: 'Times New Roman', Times, serif;
-
+.Album-5 h2 {
+    text-align: center;
+    color: rgb(113, 124, 75);
     
-
 }
+
 
 p {
     font-size: 10px;
